@@ -4,7 +4,7 @@ As a software engineer, I am continually strengthening my understanding of JavaS
 
 The purpose of writing this software was to deepen my fluency with JavaScript syntax and practice structuring code into reusable functions. I also wanted hands-on experience using a third-party library, handling runtime errors, and updating the user interface dynamically based on application state.
 
-[Software Demo Video](https://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/e91ac697a55a4288b424d76daabf0b79)
 
 # Development Environment
 
